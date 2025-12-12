@@ -1,0 +1,44 @@
+{
+    "overall": {
+        "total_gt": 2860,
+        "detected": 998,
+        "recall": 0.34895104895104895
+    },
+    "per_category": {
+        "fish": {
+            "total_gt": 1566,
+            "detected": 593,
+            "recall": 0.3786717752234994
+        },
+        "reefs": {
+            "total_gt": 759,
+            "detected": 292,
+            "recall": 0.3847167325428195
+        },
+        "human divers": {
+            "total_gt": 193,
+            "detected": 77,
+            "recall": 0.39896373056994816
+        },
+        "wrecks/ruins": {
+            "total_gt": 153,
+            "detected": 0,
+            "recall": 0.0
+        },
+        "robots": {
+            "total_gt": 47,
+            "detected": 19,
+            "recall": 0.40425531914893614
+        },
+        "sea-floor": {
+            "total_gt": 68,
+            "detected": 11,
+            "recall": 0.16176470588235295
+        },
+        "aquatic plants": {
+            "total_gt": 74,
+            "detected": 6,
+            "recall": 0.08108108108108109
+        }
+    }
+}
